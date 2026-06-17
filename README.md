@@ -2,17 +2,11 @@
 
 > Classifying iris flowers using the K-Nearest Neighbors algorithm with automated K selection, full evaluation metrics, and a 4-panel visualization dashboard.
 
-![Project Results](project2_results.png)
-
----
-
 ## 📌 Overview
 
 This project builds a machine learning classification model using the **K-Nearest Neighbors (KNN)** algorithm on the classic [Iris dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html). The model identifies the species of an iris flower (Setosa, Versicolor, or Virginica) purely from its petal and sepal measurements.
 
 The goal was not just to build a model but to build one that is **automated, evaluated properly, and visually interpretable**.
-
----
 
 ## 🎯 Results
 
@@ -22,8 +16,6 @@ The goal was not just to build a model but to build one that is **automated, eva
 | **F1 Score** | 0.9667 |
 | **Misclassifications** | 1 out of 30 |
 | **Optimal K** | 1 (auto-selected) |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,19 +28,14 @@ The goal was not just to build a model but to build one that is **automated, eva
 | **Matplotlib** | Custom multi-panel chart layout |
 | **Seaborn** | Confusion matrix heatmap |
 
----
-
 ## 📁 Project Structure
 
-```
 decodelabs_ai_data_classification/
 │
 ├── iris_knn.py              # Main script — full pipeline from data to prediction
 ├── project2_results.png     # Auto-generated 4-panel visualization
 └── README.md                # You are here
 ```
-
----
 
 ## ⚙️ How It Works — Step by Step
 
@@ -130,7 +117,7 @@ Output:
 ## 👤 Author
 
 **Areeb Ahsan**
-DecodeLabs AI Series — Project 2
+DecodeLabs AI Series - Project 2
 
 ---
 
