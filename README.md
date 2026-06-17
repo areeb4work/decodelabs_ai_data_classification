@@ -30,7 +30,7 @@ The goal was not just to build a model but to build one that is **automated, eva
 
 ## 📁 Project Structure
 
-decodelabs_ai_data_classification/
+decodelabs_ai_data_classification
 │
 ├── iris_knn.py              # Main script — full pipeline from data to prediction
 ├── project2_results.png     # Auto-generated 4-panel visualization
